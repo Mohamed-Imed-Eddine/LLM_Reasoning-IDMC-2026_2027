@@ -1,18 +1,24 @@
 # IDMC — LLM Reasoning 2026–2027
 
-## Première partie — Mohamed Imed Eddine GHEBRIOUT
+Lecture and lab materials are in English and will be added progressively throughout the course.
 
-1. Introduction au LLM Reasoning et au Compute d’Inférence — 2 h CM + 2 h TD
-2. Vérifier les Chains of Thought : Verifiers, PRM et Latent Reasoning — 2 h CM + 2 h TD
-3. Des Verifiers au Post-Training — 1 h CM + 1 h TD
+## Available materials
 
-## Deuxième partie — Estelle ZHENG
+- [CM1 — Introduction to LLM Reasoning and Inference-Time Compute](COURS/CM1.pdf)
 
-4. Reinforcement Learning for Reasoning Models — 2 h CM + 2 h TD
-5. On-Policy Distillation for Reasoning Models — 2 h CM + 2 h TD
-6. Agentic Reasoning and Tool Use — 1 h CM + 1 h TD
+## Part 1 — Mohamed Imed Eddine GHEBRIOUT
 
-## Modalités d’évaluation
+1. Introduction to LLM Reasoning and Inference-Time Compute — 2 h lecture + 2 h lab
+2. Verifying Chains of Thought: Verifiers, PRMs and Latent Reasoning — 2 h lecture + 2 h lab
+3. From Verification to Post-Training — 1 h lecture + 1 h lab
 
-- Quatre QCM préparatoires, à réaliser avant le début des séances de TD correspondantes.
-- Un projet donnant lieu à la remise d’un rapport.
+## Part 2 — Estelle ZHENG
+
+4. Reinforcement Learning for Reasoning Models — 2 h lecture + 2 h lab
+5. On-Policy Distillation for Reasoning Models — 2 h lecture + 2 h lab
+6. Agentic Reasoning and Tool Use — 1 h lecture + 1 h lab
+
+## Assessment
+
+- Four preparatory multiple-choice quizzes, to be completed before the corresponding lab sessions.
+- A project with a written report.
