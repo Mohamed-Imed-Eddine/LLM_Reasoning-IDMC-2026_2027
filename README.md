@@ -16,7 +16,7 @@ Lecture and lab materials are in English and will be added progressively through
 
 4. Reinforcement Learning for Reasoning Models — 2 h lecture + 2 h lab
 5. On-Policy Distillation for Reasoning Models — 2 h lecture + 2 h lab
-6. Agentic Reasoning and Tool Use — 1 h lecture + 1 h la
+6. Agentic Reasoning and Tool Use — 1 h lecture + 1 h lab
 
 ## Assessment
 
